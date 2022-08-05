@@ -1,0 +1,237 @@
+
+/* Universal,Body and Main stylings starts here */
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+body{
+  background-color: rgb(120, 114, 114);
+  align-items: center;
+}
+
+main{
+  margin-left: 30%;
+  margin-top: 1%;
+
+/* Universal,Body and Main stylings ends here */
+
+/* Font page styling starts here */
+
+}
+.outer-div{
+  background-color: #FCEBEB;
+  height:258px ;
+  width: 471px;
+  display: flex;
+  }
+ 
+  .left-div{
+      width: 235px;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      font: size 18px;
+  }
+
+.polygon{
+  position:absolute;
+  top: 31px;
+  left: 42px;
+  height: 142px;
+  width: 162px;
+}
+
+.TATUP{
+  position: absolute;
+  bottom:40px;
+  left: 4px;
+  padding-left: 0px;
+  margin-left: 10px;
+  width: 272.5px;
+
+}
+
+  .https{
+    background-color: #FF1515;
+    color: #FFFFFF;
+    position: absolute;
+    bottom: 0px;
+    height: 31px;
+    width:471px;
+    text-align: center;
+    padding-left: 0px;
+    padding-right: 17px;
+    padding-top: 5px;
+  }
+
+  .right-div{
+    width: 235px;
+    font-family: r;
+    color: #FF1515;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+
+  .deposit{
+    position: absolute;
+    top: 30.5px;
+    left: 26px;
+    font-size: 20px;
+    font-weight: 500px;
+  }
+  
+.N100{
+    position: absolute;
+    font-style: normal;
+    top: 100px;
+    left: 42px;
+    font-weight: 500;
+    font-size: 48px;
+  }
+
+  .inside-right-div{
+
+  display: flex;
+  color: #000000;
+  position: absolute;
+  font-size: 14px;
+  bottom: 30px;
+  left: 80px;
+  padding: 0px;
+}
+
+.vector{
+  margin-right: 8px;
+  margin-bottom: -2px;
+  padding-bottom: 0px;
+
+}
+
+/* Font page styling ends here */
+
+/* Backpage styling starts here */
+.outer-container{
+  height: 258px;
+  width: 471px;
+  display: flex;
+  flex-direction: column;
+  background-color:#FFFFFF ;
+  position: relative;
+}
+
+.top-container{
+  display: flex;
+}
+
+.blue-rect{
+  position: relative;
+  height: 59px;
+  width: 382px;
+  left: 28px;
+  top:12px;
+ 
+}
+
+.empty-div{
+  border: 1px solid #32A2E1;
+  position: absolute;
+  align-items: center;
+  top: 25px;
+  left: 104px;
+  height:38px;
+  width: 229px;
+  background-color: #FFFFFF;
+}
+
+
+.pin-div{
+  font-weight: 500;
+  color: #FFFFFF;
+  font-size: 24px;
+  position: absolute;
+  left: 59px;
+  top: 30px;
+}
+
+.polygon2{
+  position: relative;
+  top: 15px;
+  left: 16px;
+  width: 55px;
+  height: 58px;
+}
+
+.middle-container{
+  position: relative;
+  top: 5px;
+  text-align: center;
+}
+
+.text{
+  padding-top: 6px;
+}
+
+.instruct{
+  padding-right:30px;
+  font-weight: 300;
+  text-decoration: underline;
+  font-size: 19px;
+}
+
+.dial{
+  font-weight: 500;
+  font-size: 19px;
+  padding-right: 0px;
+  padding-left: 17px;
+}
+
+.enter{
+  font-size: 18px;
+  padding-left: 18px;
+}
+
+.N1000{
+  font-size: 35px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  margin-top: -10px;
+}
+
+.bottom-container{
+  position: relative;
+  height: 52px;
+  top: 3px;
+  display: flex;
+  border: 2px solid #AAA6A6;
+  border-left: 0px;
+  border-right: 0px;
+  font-weight: 400;
+  font-size: 13px;
+}
+
+.bottom-left-div{
+  position: relative;
+  left: 32px;
+  padding-top: 3px;
+}
+
+.batch-no{
+ position: absolute;
+ width: 128px;
+ bottom:4px;
+}
+
+.bottom-right-div{
+  position: relative;
+  left: 247px;
+  top: 20px;
+  height: 25px;
+  width: 120px;
+}
+
+/* backpage styling ends here */
